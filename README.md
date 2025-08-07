@@ -21,7 +21,6 @@
 
 ## 🌐 Live Demo
 
-- Clone the repository:
   [Click here to view the app](https://shreyea.github.io/Assembly-Endgame-ReactJS-/)
   Assemply Endgame
 
